@@ -1,5 +1,5 @@
 import { getSingleNote } from "@/lib/api";
-import NoteDetailsPageClient from "./NoteDetailsPage.client";
+import NoteDetailsPageClient from "./NoteDetails.client";
 import {
   dehydrate,
   HydrationBoundary,
